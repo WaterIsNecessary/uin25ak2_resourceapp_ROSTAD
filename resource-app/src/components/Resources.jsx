@@ -1,4 +1,4 @@
-import resources from "../ressurser";
+import resources from "../assets/ressurser";
 
 export default function Resources() {
 
